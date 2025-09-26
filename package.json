@@ -1,0 +1,17 @@
+{
+  "name": "play_tube",
+  "version": "1.0.0",
+  "description": "this is very complex and unique project same like u tube",
+  "keywords": [
+    "javascripts",
+    "backend",
+    "play_tube"
+  ],
+  "license": "ISC",
+  "author": "raja bijoriya",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
